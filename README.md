@@ -24,7 +24,7 @@ I am passionate about innovation and constantly exploring new technologies to cr
 - **Version Control:** Git & GitHub  
 
 ## 🚀 Live Preview  
-🔗 **http://127.0.0.1:5500/** (Add your deployed link here)  
+🔗 **http://127.0.0.1:5500/
 
 ## 📂 Projects  
 Here are some of the projects featured in my portfolio:  
